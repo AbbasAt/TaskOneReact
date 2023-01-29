@@ -1,0 +1,27 @@
+table {
+    width: 100% ; 
+}
+
+table,th,td{
+    border: 1px solid !important;
+    border-collapse: collapse !important;
+    border-color:#ebebeb !important ;
+    color:#322625 !important;
+}
+
+th{
+    background-color: #c0e3e5 !important;
+    height: 50px !important;
+    text-align: center !important;
+}
+
+tr:hover{
+    background-color: #ebebeb;
+}
+
+tr{
+    height: 30px;
+}
+td{
+    text-align: center;
+}

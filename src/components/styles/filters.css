@@ -1,0 +1,48 @@
+.select{
+    border: 0px;
+    outline: 0px;
+    margin-right: 10px;
+}
+
+.select:hover{
+    cursor: pointer;
+}
+
+.text{
+    margin-top: 18px;
+    margin-right: 10px;
+}
+
+.divider{
+    border-left: 2px solid #ebebeb;
+    height: 20px;
+    margin-top: 18px;
+    margin-right: 10px;
+}
+
+.icon{
+    margin-top: 18px;
+    margin-right: 10px;
+}
+
+.icon:hover{
+    cursor: pointer;
+}
+
+.invisible{
+    visibility:hidden;
+}
+
+.input{
+    margin-top: 17px;
+    height: 25px;
+    border-radius: 8px;
+}
+
+.input:focus{
+    outline: none;
+}
+
+#filters:hover{
+    cursor: pointer;
+}

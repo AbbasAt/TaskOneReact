@@ -1,0 +1,12 @@
+#title{
+  margin-top: 15%;
+}
+
+h2{
+  border: 5px solid #c0e3e5;
+  width: fit-content;
+}
+
+h2:hover{
+  cursor: pointer;
+}
